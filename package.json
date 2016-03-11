@@ -2,7 +2,7 @@
   "name": "superapi-jsonp",
   "version": "0.0.0",
   "description": "JSONP support for superapi",
-  "homepage": "github.com/stephanebachelier/superapi-jsonp",
+  "homepage": "https://github.com/stephanebachelier/superapi-jsonp",
   "author": {
     "name": "Stéphane Bachelier",
     "email": "stephane.bachelier@gmail.com",
@@ -40,7 +40,7 @@
     "postversion": "git push origin master --follow-tags",
     "deploy": "git pull --rebase origin master && git push origin master"
   },
-  "repository": "stephanebachelier/undefined",
+  "repository": "stephanebachelier/superapi-jsonp",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.5.1",
