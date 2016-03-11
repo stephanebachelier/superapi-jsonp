@@ -1,6 +1,6 @@
 {
   "name": "superapi-jsonp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "JSONP support for superapi",
   "homepage": "https://github.com/stephanebachelier/superapi-jsonp",
   "author": {
