@@ -1,0 +1,35 @@
+{
+  "name": "superapi-jsonp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/stephanebachelier/superapi-jsonp",
+  "authors": [
+    "Stéphane Bachelier <stephane.bachelier@gmail.com>"
+  ],
+  "description": "JSONP middleware for superapi",
+  "main": "dist/umd/superapi-jsonp.js",
+  "moduleType": [
+    "globals",
+    "amd",
+    "node",
+    "es6"
+  ],
+  "keywords": [
+    "http",
+    "api",
+    "jsonp",
+    "middleware",
+    "superapi",
+    "superagent",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "examples",
+    "lib",
+    "node_modules",
+    "package.json",
+    "test",
+    "webpack.config.js"
+  ]
+}
