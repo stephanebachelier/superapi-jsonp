@@ -3,6 +3,7 @@
     "es2015"
   ],
   "plugins": [
+    "transform-es2015-arrow-functions",
     "add-module-exports"
   ]
 }
